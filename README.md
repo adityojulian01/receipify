@@ -164,12 +164,12 @@ Supported by [Spoonacular API](https://spoonacular.com/food-api/ "Spoonacular AP
     <tr>
       <td>Recipe Page</td>
       <td align="center" style:"width=700"> 
-        <img src = "https://github.com/adityojulian01/receipify/blob/master/documentation/Screenshot_1653837831.png" width="100"/>
-        <img src = "https://github.com/adityojulian01/receipify/blob/master/documentation/Screenshot_1653837847.png" width="100"/>
-        <img src = "https://github.com/adityojulian01/receipify/blob/master/documentation/Screenshot_1653837954.png" width="100"/>
-        <img src = "https://github.com/adityojulian01/receipify/blob/master/documentation/Screenshot_1653837957.png" width="100"/>
-        <img src = "https://github.com/adityojulian01/receipify/blob/master/documentation/Screenshot_1653837975.png" width="100"/>
-        <img src = "https://github.com/adityojulian01/receipify/blob/master/documentation/Screenshot_1653838018.png" width="100"/>
+        <img src = "https://github.com/adityojulian01/receipify/blob/master/documentation/Screenshot_1653837831.png" width="200"/>
+        <img src = "https://github.com/adityojulian01/receipify/blob/master/documentation/Screenshot_1653837847.png" width="200"/>
+        <img src = "https://github.com/adityojulian01/receipify/blob/master/documentation/Screenshot_1653837954.png" width="200"/>
+        <img src = "https://github.com/adityojulian01/receipify/blob/master/documentation/Screenshot_1653837957.png" width="200"/>
+        <img src = "https://github.com/adityojulian01/receipify/blob/master/documentation/Screenshot_1653837975.png" width="200"/>
+        <img src = "https://github.com/adityojulian01/receipify/blob/master/documentation/Screenshot_1653838018.png" width="200"/>
       </td>
       <td> 
         <ul>
