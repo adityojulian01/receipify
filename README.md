@@ -183,7 +183,7 @@ Supported by [Spoonacular API](https://spoonacular.com/food-api/ "Spoonacular AP
     <tr>
       <td>Profile Page</td>
       <td align="center""> 
-        <img src = "https://github.com/adityojulian01/receipify/blob/master/documentation/Screenshot_1653837831.png" width="100"/>
+        <img src = "https://github.com/adityojulian01/receipify/blob/master/documentation/Screenshot_1653837831.png" width="200"/>
       </td>
       <td>The profile page shows you the username, email and the number of the receipt that you've scanned and saved as well as a 'Logout' button</td>
     </tr>
