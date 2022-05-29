@@ -47,10 +47,12 @@ Supported by [Spoonacular API](https://spoonacular.com/food-api/ "Spoonacular AP
 
 ## Documentation
 ### Welcome Page
-<table stlye = "width:100%">
-  <col style = "width:60%">
-  <col style = "width:20%">
-  <col style = "width:20%">
+<table stlye="width:100%">
+    <colgroup>
+       <col span="1" style="width: 15%;">
+       <col span="1" style="width: 70%;">
+       <col span="1" style="width: 15%;">
+    </colgroup>
   <thead>
     <tr>
       <th>Page</th>
