@@ -25,9 +25,9 @@ Supported by [Spoonacular API](https://spoonacular.com/food-api/ "Spoonacular AP
 > $ flutter --version
 
 > Flutter 2.13.0-0.0.pre.227 • channel master • https://github.com/flutter/flutter.git 
-Framework • revision 0a7b3d72c9 (10 weeks ago) • 2022-03-23 12:10:17 -0700 
-Engine • revision 4fbff7a511 
-Tools • Dart 2.17.0 (build 2.17.0-227.0.dev) • DevTools 2.11.4
+> Framework • revision 0a7b3d72c9 (10 weeks ago) • 2022-03-23 12:10:17 -0700 
+> Engine • revision 4fbff7a511 
+> Tools • Dart 2.17.0 (build 2.17.0-227.0.dev) • DevTools 2.11.4
 
 - Backend: Django (Django REST Framework)
 
@@ -118,6 +118,42 @@ Tools • Dart 2.17.0 (build 2.17.0-227.0.dev) • DevTools 2.11.4
           <li> The inventory page shows you the list of ingredients that you've entered in the pre-ingredients page before </li>
           <li> You can  add or remove ingredients by using the 'Add' button to add or search the items using the search bar at the top. For removing ingredients, you can simply press the 'X' icon on the corresponding items</li>
           <li> Once you're happy with the changes, press the 'Update' button </li>
+          <li> These items are stored on the database of your account </li>
+        </ul> 
+      </td>
+    </tr>
+    <tr>
+      <td>Receipt Library Page</td>
+      <td> 
+        <img src = "https://github.com/adityojulian01/receipify/blob/master/documentation/Screenshot_1653837825.png" width="200"/>
+        <img src = "https://github.com/adityojulian01/receipify/blob/master/documentation/Screenshot_1653838212.png" width="200"/>
+        <img src = "https://github.com/adityojulian01/receipify/blob/master/documentation/Screenshot_1653838217.png" width="200"/>
+        <img src = "https://github.com/adityojulian01/receipify/blob/master/documentation/Screenshot_1653838218.png" width="200"/>
+      </td>
+      <td> 
+        <ul>
+          <li> The Receipt Library shows the receitps that you have scanned and saved </li>
+          <li> You can see (food/ingredient) items of the receipt by clicking the image of the receipt and go to the 'Items' bar</li>
+          <li> These receipts are saved into the database of your account </li>
+        </ul> 
+      </td>
+    </tr>
+    <tr>
+      <td>Recipe Page</td>
+      <td> 
+        <img src = "https://github.com/adityojulian01/receipify/blob/master/documentation/Screenshot_1653837831.png" width="200"/>
+        <img src = "https://github.com/adityojulian01/receipify/blob/master/documentation/Screenshot_1653837847.png" width="200"/>
+        <img src = "https://github.com/adityojulian01/receipify/blob/master/documentation/Screenshot_1653837954.png" width="200"/>
+        <img src = "https://github.com/adityojulian01/receipify/blob/master/documentation/Screenshot_1653837957.png" width="200"/>
+        <img src = "https://github.com/adityojulian01/receipify/blob/master/documentation/Screenshot_1653837975.png" width="200"/>
+        <img src = "https://github.com/adityojulian01/receipify/blob/master/documentation/Screenshot_1653838018.png" width="200"/>
+      </td>
+      <td> 
+        <ul>
+          <li> In the Recipe Page, you can scroll through popular recipes or look for recipes based on the provied category </li>
+          <li> These recipes are taken from <a href="https://spoonacular.com/food-api/">Spoonacular API</a></li>
+          <li> You can use the search bar to search for recipes and check the details on what ingredients are used and the steps needed to make the meal </li>
+          <li> This app provide you the feauture to include your inventory when searching for recipes. This feature allows the user to see the number of missed and used ingredients as well ('x' icon for missed ingredietns and '\/' (check) icon for used ingredients). </li>
         </ul> 
       </td>
     </tr>
