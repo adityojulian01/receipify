@@ -1,6 +1,7 @@
 # Receipify
 
 Generate recipes from your recipes and ingredients at home.
+Supported by [Spoonacular API](https://spoonacular.com/food-api/ "Spoonacular API").
 
 ## Features and Limitations
 - Add ingredients that you already have to your inventory in the app.
@@ -32,8 +33,17 @@ Tools • Dart 2.17.0 (build 2.17.0-227.0.dev) • DevTools 2.11.4
 
 - External API: [Spoonacular API](https://spoonacular.com/food-api/ "Spoonacular API")
 
-## Technical Notes
+- Used Library:
+  - [Pytesseract](https://pypi.org/project/pytesseract/ "Pytesseract")
+  - [OpenCV](https://opencv.org "OpenCV")
 
+## Disclaimer
+- This app is still in development stage. 
+- This repo is made purely for personal use.
+
+## Technical Notes
+- This app uses JWT Authentication to authenticate user and generate token.
+- For extracting the receipt to local ingredient list, this app uses pytesseract to convert the image to string and uses custom REGEX to extract only the items from the string (removing the date, price, etc.) then convert the items into a list.
 
 ## Documentation
 ### Welcome Page

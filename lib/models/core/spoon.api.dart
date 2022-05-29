@@ -12,7 +12,7 @@ import 'dart:io';
 
 import 'login_model.dart';
 
-String APIKey = '1bc22d6b4bca4d569f9b2566dcbcf114';
+String APIKey = '';
 
 class SpoonRecipeAPI {
   static Future<List<Recipe>> getRecipe(String ingredients) async {
