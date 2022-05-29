@@ -47,7 +47,7 @@ Supported by [Spoonacular API](https://spoonacular.com/food-api/ "Spoonacular AP
 
 ## Documentation
 ### Welcome Page
-<table width = "width:100%">
+<table stlye = "width:100%">
   <col style = "width:60%">
   <col style = "width:20%">
   <col style = "width:20%">
