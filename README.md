@@ -69,7 +69,7 @@ Supported by [Spoonacular API](https://spoonacular.com/food-api/ "Spoonacular AP
       <td> In the Welcome Page, you can create an account by clicking 'Sign Up' button or login to your account with the 'Sign In' Button </td>
     </tr>
     <tr>
-      <td>Sign Up & Sign In Page</td>
+      <td align="center">Sign Up & Sign In Page</td>
       <td> 
         <img src = "https://github.com/adityojulian01/receipify/blob/master/documentation/Screenshot_1653837628.png" width="200"/>
         <img src = "https://github.com/adityojulian01/receipify/blob/master/documentation/Screenshot_1653837701.png" width="200"/>
