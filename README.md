@@ -77,7 +77,7 @@ Supported by [Spoonacular API](https://spoonacular.com/food-api/ "Spoonacular AP
       <td> 
         <ul>
           <li> In order to register, you need to put your username, email and password</li>
-          <li> Currently, the app is still on development phase and if you fill the email field with anything as long as it has '@' and it would still be valid </li>
+          <li> Currently, the app is still on development phase and if you fill the email field with anything as long as it has '@', it would still be valid </li>
           <li> This app uses JWT authentication to authenticate your accocunt credentials and the password that are saved into the database is hashed </li>
         </ul> 
       </td>
