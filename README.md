@@ -71,8 +71,8 @@ Supported by [Spoonacular API](https://spoonacular.com/food-api/ "Spoonacular AP
     <tr>
       <td>Sign Up & Sign In Page</td>
       <td align="center"> 
-        <img src = "https://github.com/adityojulian01/receipify/blob/master/documentation/Screenshot_1653837628.png" width="150"/>
-        <img src = "https://github.com/adityojulian01/receipify/blob/master/documentation/Screenshot_1653837701.png" width="150"/>
+        <img src = "https://github.com/adityojulian01/receipify/blob/master/documentation/Screenshot_1653837628.png" width="100"/>
+        <img src = "https://github.com/adityojulian01/receipify/blob/master/documentation/Screenshot_1653837701.png" width="100"/>
       </td>
       <td> 
         <ul>
