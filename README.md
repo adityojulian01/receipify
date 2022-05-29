@@ -45,7 +45,7 @@ Generate recipes from your recipes and ingredients at home.
         </ul> 
       </td>
     </tr>
-     <tr>
+    <tr>
       <td>Pre-Ingredients Page</td>
       <td> 
         <img src = "https://github.com/adityojulian01/receipify/blob/master/documentation/Screenshot_1653837716.png" width="200"/>
@@ -56,6 +56,33 @@ Generate recipes from your recipes and ingredients at home.
           <li> Search for ingredients or food items that you already have in your home and it will be saved into your inventory as well as in our database  </li>
           <li> You can add the ingredients by using the ingredient suggestions or use the search button and add manually </li>
           <li> You can remove the ingredients that you've added and it will be automatically updated </li>
+        </ul> 
+      </td>
+    </tr>
+    <tr>
+      <td>Main Page</td>
+      <td> 
+        <img src = "https://github.com/adityojulian01/receipify/blob/master/documentation/Screenshot_1653837785.png" width="200"/>
+      </td>
+      <td> 
+        <ul>
+          <li> The main page provides you a camera to scan your receipt </li>
+          <li> You can get the receipt image by capturing it from your camera or choosing it from your phone's gallery </li>
+        </ul> 
+      </td>
+    </tr>
+    <tr>
+      <td>Inventory Page</td>
+      <td> 
+        <img src = "https://github.com/adityojulian01/receipify/blob/master/documentation/Screenshot_1653837790.png" width="200"/>
+        <img src = "https://github.com/adityojulian01/receipify/blob/master/documentation/Screenshot_1653837808.png" width="200"/>
+        <img src = "https://github.com/adityojulian01/receipify/blob/master/documentation/Screenshot_1653837815.png" width="200"/>
+      </td>
+      <td> 
+        <ul>
+          <li> The inventory page shows you the list of ingredients that you've entered in the pre-ingredients page before </li>
+          <li> You can  add or remove ingredients by using the 'Add' button to add or search the items using the search bar at the top. For removing ingredients, you can simply press the 'X' icon on the corresponding items</li>
+          <li> Once you're happy with the changes, press the 'Update' button </li>
         </ul> 
       </td>
     </tr>
