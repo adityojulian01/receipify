@@ -61,7 +61,7 @@ Supported by [Spoonacular API](https://spoonacular.com/food-api/ "Spoonacular AP
   <tbody>
     <tr>
       <td>Welcome Page</td>
-      <td style="text-align: center"> 
+      <td align="center"> 
         <img src = "https://github.com/adityojulian01/receipify/blob/master/documentation/Screenshot_1653837519.png" width="200"/>
       </td>
       <td> In the Welcome Page, you can create an account by clicking 'Sign Up' button or login to your account with the 'Sign In' Button </td>
@@ -82,7 +82,7 @@ Supported by [Spoonacular API](https://spoonacular.com/food-api/ "Spoonacular AP
     </tr>
     <tr>
       <td>Pre-Ingredients Page</td>
-      <td style="text-align: center"> 
+      <td align="center"> 
         <img src = "https://github.com/adityojulian01/receipify/blob/master/documentation/Screenshot_1653837716.png" width="200"/>
         <img src = "https://github.com/adityojulian01/receipify/blob/master/documentation/Screenshot_1653837762.png" width="200"/>
       </td>
@@ -96,7 +96,7 @@ Supported by [Spoonacular API](https://spoonacular.com/food-api/ "Spoonacular AP
     </tr>
     <tr>
       <td>Main Page</td>
-      <td style="text-align: center"> 
+      <td align="center"> 
         <img src = "https://github.com/adityojulian01/receipify/blob/master/documentation/Screenshot_1653837785.png" width="200"/>
       </td>
       <td> 
@@ -108,7 +108,7 @@ Supported by [Spoonacular API](https://spoonacular.com/food-api/ "Spoonacular AP
     </tr>
     <tr>
       <td>Inventory Page</td>
-      <td style="text-align: center"> 
+      <td align="center"> 
         <img src = "https://github.com/adityojulian01/receipify/blob/master/documentation/Screenshot_1653837790.png" width="200"/>
         <img src = "https://github.com/adityojulian01/receipify/blob/master/documentation/Screenshot_1653837808.png" width="200"/>
         <img src = "https://github.com/adityojulian01/receipify/blob/master/documentation/Screenshot_1653837815.png" width="200"/>
@@ -124,7 +124,7 @@ Supported by [Spoonacular API](https://spoonacular.com/food-api/ "Spoonacular AP
     </tr>
     <tr>
       <td>Scan and Search</td>
-      <td style="text-align: center"> 
+      <td align="center"> 
         <img src = "https://github.com/adityojulian01/receipify/blob/master/documentation/Screenshot_1653838035.png" width="200"/>
         <img src = "https://github.com/adityojulian01/receipify/blob/master/documentation/Screenshot_1653838164.png" width="200"/>
         <img src = "https://github.com/adityojulian01/receipify/blob/master/documentation/Screenshot_1653838170.png" width="200"/>
@@ -145,7 +145,7 @@ Supported by [Spoonacular API](https://spoonacular.com/food-api/ "Spoonacular AP
     </tr>
     <tr>
       <td>Receipt Library Page</td>
-      <td style="text-align: center"> 
+      <td align="center"> 
         <img src = "https://github.com/adityojulian01/receipify/blob/master/documentation/Screenshot_1653837825.png" width="200"/>
         <img src = "https://github.com/adityojulian01/receipify/blob/master/documentation/Screenshot_1653838212.png" width="200"/>
         <img src = "https://github.com/adityojulian01/receipify/blob/master/documentation/Screenshot_1653838217.png" width="200"/>
@@ -161,7 +161,7 @@ Supported by [Spoonacular API](https://spoonacular.com/food-api/ "Spoonacular AP
     </tr>
     <tr>
       <td>Recipe Page</td>
-      <td style="text-align: center"> 
+      <td align="center"> 
         <img src = "https://github.com/adityojulian01/receipify/blob/master/documentation/Screenshot_1653837831.png" width="200"/>
         <img src = "https://github.com/adityojulian01/receipify/blob/master/documentation/Screenshot_1653837847.png" width="200"/>
         <img src = "https://github.com/adityojulian01/receipify/blob/master/documentation/Screenshot_1653837954.png" width="200"/>
@@ -180,14 +180,14 @@ Supported by [Spoonacular API](https://spoonacular.com/food-api/ "Spoonacular AP
     </tr>
     <tr>
       <td>Profile Page</td>
-      <td style="text-align: center"> 
+      <td align="center""> 
         <img src = "https://github.com/adityojulian01/receipify/blob/master/documentation/Screenshot_1653837831.png" width="200"/>
       </td>
       <td>The profile page shows you the username, email and the number of the receipt that you've scanned and saved as well as a 'Logout' button</td>
     </tr>
     <tr>
       <td>Dark Mode</td>
-      <td style="text-align: center"> 
+      <td align="center"> 
         <img src = "https://github.com/adityojulian01/receipify/blob/master/documentation/Screenshot_1653838227.png" width="200"/>
         <img src = "https://github.com/adityojulian01/receipify/blob/master/documentation/Screenshot_1653838230.png" width="200"/>
         <img src = "https://github.com/adityojulian01/receipify/blob/master/documentation/Screenshot_1653838233.png" width="200"/>
