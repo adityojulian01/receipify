@@ -10,6 +10,21 @@ Generate recipes from your recipes and ingredients at home.
 - Search for recipes that also consider the ingredients that you have in your inventory.
 - Manage your scanned receipt and its corresponding food items.
 
+## Tech Stacks
+- Android Frontend: Flutter
+`flutter --version`
+`Flutter 2.13.0-0.0.pre.227 • channel master • https://github.com/flutter/flutter.git 
+Framework • revision 0a7b3d72c9 (10 weeks ago) • 2022-03-23 12:10:17 -0700 
+Engine • revision 4fbff7a511 
+Tools • Dart 2.17.0 (build 2.17.0-227.0.dev) • DevTools 2.11.4`
+
+- Backend: Django (Django REST Framework)
+
+- External API: [Links with title](https://spoonacular.com/food-api/ "Spoonacular API")
+
+## Technical Notes
+
+
 ## Documentation
 ### Welcome Page
 <table width = "width:100%">
