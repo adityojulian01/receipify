@@ -23,7 +23,7 @@ from datetime import timedelta
 # See https://docs.djangoproject.com/en/4.0/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-55b%$n3e!=5s=(y&^s@*m0c#wei6g5m8k!w*c(xh)11zysl)1e'
+SECRET_KEY = ''
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
