@@ -1,6 +1,6 @@
 # Receipify
 
-Generate recipes from your recipes and ingredients at home.
+Generate recipes from your receipts and ingredients at home.
 Supported by [Spoonacular API](https://spoonacular.com/food-api/ "Spoonacular API").
 
 ## Features
